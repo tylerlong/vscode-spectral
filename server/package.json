@@ -1,15 +1,15 @@
 {
   "author": "Stoplight <support@stoplight.io>",
   "dependencies": {
-    "@stoplight/spectral": "^5.8.0",
-    "minimatch": "^3.0.4",
-    "vscode-languageserver": "^6.1.1",
-    "vscode-languageserver-textdocument": "^1.0.1",
-    "vscode-uri": "^2.1.2"
+    "@stoplight/spectral": "^6.1.0",
+    "minimatch": "^5.0.1",
+    "vscode-languageserver": "^7.0.0",
+    "vscode-languageserver-textdocument": "^1.0.4",
+    "vscode-uri": "^3.0.3"
   },
   "devDependencies": {
-    "@types/minimatch": "^3.0.3",
-    "@types/node-fetch": "^2.5.5"
+    "@types/minimatch": "^3.0.5",
+    "@types/node-fetch": "^2.6.1"
   },
   "engines": {
     "node": "^17.5.0"

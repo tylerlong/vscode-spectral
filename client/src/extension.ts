@@ -16,7 +16,8 @@ import {
   TransportKind,
   FileChangeType,
   Disposable,
-} from 'vscode-languageclient';
+} from 'vscode-languageclient/node';
+
 import { ExtensionSettings } from './configuration';
 import { StartWatcherNotification, StartWatcherParams } from './notifications';
 
